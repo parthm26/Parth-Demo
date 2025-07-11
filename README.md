@@ -1,4 +1,4 @@
 # Parth-Demo
 This is my first git repo
 <br>
-author - Parth Malviya
+author - Parth (student)
